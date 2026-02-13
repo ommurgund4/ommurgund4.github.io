@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Make GitHub button fully transparent */
+.btn {
+  opacity: 0 !important;
+}
