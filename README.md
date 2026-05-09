@@ -8,7 +8,7 @@
     box-shadow:0 0 20px rgba(0,0,0,0.4);
   ">
     <img 
-      src="assets/images/file_00000000e72c72069ac6433275520689.png p"
+      src="assets/images/file_00000000e72c72069ac6433275520689.pngp"
       width="100%"
       style="
         border-radius:20px;
