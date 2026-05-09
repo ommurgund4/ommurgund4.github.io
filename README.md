@@ -1,5 +1,20 @@
 <p align="center">
-  <img src="assets/images/IMG_20260509_104138_769.webp" width="320" style="border-radius:20px;">
+  <div style="
+    width:320px;
+    margin:auto;
+    padding:15px;
+    background:#111;
+    border-radius:25px;
+    box-shadow:0 0 20px rgba(0,0,0,0.4);
+  ">
+    <img 
+      src="assets/images/IMG_20260509_104138_769.webp"
+      width="100%"
+      style="
+        border-radius:20px;
+        display:block;
+      ">
+  </div>
 </p>
 
 # Om Murgund
