@@ -17,7 +17,6 @@
   </div>
 </p>
 
-# Om Murgund
 
 ## Investor | Trader | Entrepreneur
 
