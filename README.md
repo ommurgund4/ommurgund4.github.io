@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/images/IMG_20251116_220541_477.webp" width="180" style="border-radius:50%;">
+  <img src="assets/images/IMG_20260509_104138_769.webp" width="180" style="border-radius:50%;">
 </p>
 
 # Om Murgund
