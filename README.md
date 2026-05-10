@@ -1,6 +1,6 @@
 <p align="center">
   <div style="
-    width:400px;
+    width:350px;
     margin:auto;
     padding:15px;
     background:#111;
